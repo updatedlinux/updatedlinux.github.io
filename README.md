@@ -6,7 +6,7 @@ This site is dedicated to all those enthusiasts, entrepreneurs or anyone who fee
 
 You can (and should) see this page and all its contents using Github Pages. the link is:
 
-[http://updatedlinux.github.io](http://updatedlinux.github.io "Updated Linux - Recipes, Tutorials and Documentations for IT World)
+[http://updatedlinux.github.io](http://updatedlinux.github.io "Updated Linux - Recipes, Tutorials and Documentations for IT World")
 
 
 This repository (and it’s github page counterpart) is divided on the following sections:
