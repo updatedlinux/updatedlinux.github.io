@@ -2,9 +2,9 @@
 
 ## Recipes in this category:
 
-- [name](#)
+- [Creation of volumen (LVM) in CentOS 7](#)
 
 ### Back
 
-[Return](https://updatedlinux.github.io/) 
+[Return to Home Page](https://updatedlinux.github.io/) 
 
