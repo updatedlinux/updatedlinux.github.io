@@ -71,10 +71,10 @@ That is all. -
 Easy? comment on my linkedIn
 
 
-- **By Jonathan Alexander Melendez Duran
-- **Caracas, Venezuela
-- **soyjonnymelendez AT gmail DOT com
-- **[My Linkedin Profile](https://www.linkedin.com/in/updatedlinux/)
+- **By Jonathan Alexander Melendez Duran**
+- **Caracas, Venezuela**
+- **soyjonnymelendez AT gmail DOT com**
+- **[My Linkedin Profile](https://www.linkedin.com/in/updatedlinux/)**
 
 
 
