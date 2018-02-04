@@ -29,9 +29,12 @@ Currently I work as a Technology Architect in Venezuela, every day I follow my p
 Without saying goodbye, I wish you enjoy!
 
 **Jonathan Alexander Melendez Duran.**
-**Caracas, Venezuela:**
-**soyjonnymelendez AT gmail DOT com**
-**[My Github Site](https://github.com/updatedlinux)**
-**[My Linkedin Profile](https://www.linkedin.com/in/updatedlinux/)**
 
+**Caracas, Venezuela:**
+
+**soyjonnymelendez AT gmail DOT com**
+
+**[My Github Site](https://github.com/updatedlinux)**
+
+**[My Linkedin Profile](https://www.linkedin.com/in/updatedlinux/)**
 
