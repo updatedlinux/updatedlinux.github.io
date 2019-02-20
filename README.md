@@ -16,6 +16,8 @@ This repository (and it’s github page counterpart) is divided on the following
 * [Linux:](https://updatedlinux.github.io/recipes/linux/) A whole world of recipes related to Linux.
 * [Windows:](#) A whole world of recipes related to Windows.
 * [Cloud Computing:](https://updatedlinux.github.io/recipes/openstack/) The most interesting thing in the house, recipes to survive in the OpenStack world and Amazon Web Services.
+* [Crypto Concurrency:](https://updatedlinux.github.io/recipes/crypto/) All about the world of Crypto (BTC, LTC, DASH, ETH).
+
 
 
 **What do I expect in exchange for this?**
