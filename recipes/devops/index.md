@@ -2,7 +2,7 @@
 
 ## Recipes in this category:
 
-- [Upgrade and Migrate GitLab CE](https://github.com/updatedlinux/updatedlinux.github.io/tree/master/recipes/linux/gitlab/)
+- [Upgrade and Migrate GitLab CE](https://github.com/updatedlinux/updatedlinux.github.io/blob/master/recipes/devops/gitlab/)
 
 ### Back
 
