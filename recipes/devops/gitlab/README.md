@@ -50,6 +50,7 @@ run the following commands:
 mkdir gitlab-old
 cp -R /etc/gitlab/* ~/gitlab-old
 cd gitlab-old/
+gitlab-rake gitlab:backup:create
 cp /var/opt/gitlab/backups/XXXXXXXXXXX_XXXX_XX_XX_XX.X.X_gitlab_backup.tar . 
 cd ..
 tar -cvzf gitlabold.tar.gz gitlab-old/
