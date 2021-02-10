@@ -363,10 +363,10 @@ From now on you must create vlan type networks, configure projects, and service 
 
 This Lab is a compendium of multiple sources on the internet, below I quote them to give respective credit:
 
-http://www.tuxfixer.com/openstack-pike-vlan-and-flat-network-based-installation-using-packstack/
-https://ahelpme.com/linux/centos-8/adding-bonding-interface-to-centos-8-editing-configuration-files-only/
-https://www.linuxtechi.com/install-openstack-centos-8-with-packstack/
-https://github.com/tigerlinux/openstack-queens-installer-centos7/blob/master/DOCS/NOTES.txt
+- http://www.tuxfixer.com/openstack-pike-vlan-and-flat-network-based-installation-using-packstack/
+- https://ahelpme.com/linux/centos-8/adding-bonding-interface-to-centos-8-editing-configuration-files-only/
+- https://www.linuxtechi.com/install-openstack-centos-8-with-packstack/
+- https://github.com/tigerlinux/openstack-queens-installer-centos7/blob/master/DOCS/NOTES.txt
 
 That is all. -
 
@@ -376,6 +376,7 @@ Easy? comment on my linkedIn
 - **By Jonathan Alexander Melendez Duran**
 - **Caracas, Venezuela**
 - **soyjonnymelendez AT gmail DOT com**
+- **https://git.soyjonnymelendez.com**
 - **[My Linkedin Profile](https://www.linkedin.com/in/updatedlinux/)**
 
 
