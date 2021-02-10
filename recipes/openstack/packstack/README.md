@@ -29,11 +29,11 @@ In our laboratory we will use 6 servers, one of them as Controller node and the 
 
 ```bash
 172.16.157.6 -> OpenStack Victoria Controller Node
-172.16.157.5 -> OpenStack OCATA Compute Node
-172.16.157.7 -> OpenStack OCATA Compute Node
-172.16.157.8 -> OpenStack OCATA Compute Node
-172.16.157.9 -> OpenStack OCATA Compute Node
-172.16.157.10 -> OpenStack OCATA Compute Node
+172.16.157.5 -> OpenStack Victoria Compute Node
+172.16.157.7 -> OpenStack Victoria Compute Node
+172.16.157.8 -> OpenStack Victoria Compute Node
+172.16.157.9 -> OpenStack Victoria Compute Node
+172.16.157.10 -> OpenStack Victoria Compute Node
 ```
 
 It is important that you take into account that you must have at least 2 Network interfaces on the servers (both controller and compute), one for administration and another for traffic management of virtual machines in Trunk Type Networks (VLAN). 
