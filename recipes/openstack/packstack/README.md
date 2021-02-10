@@ -317,8 +317,8 @@ Finalizing                                           [ DONE ]
 
 Additional information:
  * Time synchronization installation was skipped. Please note that unsynchronized time on server instances might be problem for some OpenStack components.
- * File /root/keystonerc_admin has been created on OpenStack client host 172.16.156.6. To use the command line tools you need to source the file.
- * To access the OpenStack Dashboard browse to http://172.16.156.6/dashboard .
+ * File /root/keystonerc_admin has been created on OpenStack client host 172.16.157.6. To use the command line tools you need to source the file.
+ * To access the OpenStack Dashboard browse to http://172.16.157.6/dashboard .
 Please, find your login credentials stored in the keystonerc_admin in your home directory.
  * The installation log file is available at: /var/tmp/packstack/20210116-023529-0df1tgus/openstack-setup.log
  * The generated manifests are available at: /var/tmp/packstack/20210116-023529-0df1tgus/manifests
