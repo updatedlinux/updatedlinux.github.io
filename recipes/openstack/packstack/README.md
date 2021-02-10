@@ -267,7 +267,7 @@ CONFIG_CINDER_NFS_MOUNTS=172.16.17.2:/NFS/cinder-victoria
 CONFIG_CINDER_BACKEND=nfs
 ```
 
-## Step Four: Install OpenStack Victoria on CentOS 8 With Packstack
+## Step Five: Install OpenStack Victoria on CentOS 8 With Packstack
 
 If satisfied with the contents in the answers file initiate deployment of OpenStack Victoria on CentOS 8 With Packstack:
 
