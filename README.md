@@ -11,7 +11,7 @@ You can (and should) see this page and all its contents using Github Pages. the 
 
 This repository (and it’s github page counterpart) is divided on the following sections:
 
-* [Databases:](#) Recipes to survive the world of relational databases such as Postgres, Mysql, MariaDB especially in cloud environments.
+* [Databases:](https://updatedlinux.github.io/recipes/database/) Recipes to survive the world of relational databases such as Postgres, Mysql, MariaDB especially in cloud environments.
 * [Monitoring:](#) Solutions for monitoring platforms in Linux and Windows environments.
 * [Linux:](https://updatedlinux.github.io/recipes/linux/) A whole world of recipes related to Linux.
 * [CI/CD (SRE/DevOps):](https://updatedlinux.github.io/recipes/devops/) A whole world of recipes related to SRV/DevOps/SysAdmin.
