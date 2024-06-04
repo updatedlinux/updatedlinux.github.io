@@ -5,16 +5,16 @@
  * Requerimiento:
 
 Para SQL Server
-16 vCPU
-16 GB de memoria Ram
-100 GB en disco base
+16 vCPU /
+16 GB de memoria Ram /
+100 GB en disco base /
 1 NIC
 
 Para iSCSI Target Server
-8 vCPU
-16 GB de memoria Ram
-100 GB de disco base
-800 GB de Disco adicional para almacenamiento via iSCSI. 
+8 vCPU /
+16 GB de memoria Ram /
+100 GB de disco base /
+800 GB de Disco adicional para almacenamiento via iSCSI /
 1 NIC
 
 ## Paso 1: Instalar Targetcli y crear las WWN y LUN en el Target iSCSI Server. 
